@@ -16,7 +16,7 @@ Zadanie polega na napisniu aplikacji odczytującej plik `CSV` z listą studentó
 
 ## Uwagi:
 * Pola w pliku `.csv` to odpowiednio: `Imię`, `Nazwisko`, `Kierunek studiów`, `Tryb studiów`, `S-ka`, `Data urodzenia`, `Email`, `Imię matki`, `Imię ojca`.
-* Rekord jest nie unikatowy, gdy ma tą samą S-kę, Imię i Nazwisko co inny student. 
+* Rekord jest nie unikatowy, gdy ma tą samą S-kę, Imię i Nazwisko oraz Kierunek i Tryb studiów co inny student. 
 * Błędny rekord, to taki rekord, który nie składa się z 9 pól.
 * Format danych w pliku wyjściowym to 
 ```yaml
