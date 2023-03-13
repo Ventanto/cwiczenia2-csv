@@ -43,6 +43,6 @@ Zadanie polega na napisniu aplikacji odczytującej plik `CSV` z listą studentó
 }
 ```
 
-#Pomoc
+# Pomoc
 * Do obsługi plików `CSV` można użyć biblioteki `CsvHelper`
 * Do obsługi plików `JSON` można użyć klasy `JsonSerializer`.
