@@ -29,7 +29,7 @@ Zadanie polega na napisniu aplikacji odczytującej plik `CSV` z listą studentó
         Name: string
         Surname: string,
         Email: string,
-        BirthDate: string,
+        BirthDate: date,
         MothersName: string,
         FathersName: string,
         Studies: [
